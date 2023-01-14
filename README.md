@@ -1,8 +1,8 @@
-# 123-cloud-disk
-## 123云盘社区资源存储库
+# 123云盘社区使用说明
 
+## 存储库定性：123云盘社区资源存储库
 
-# 具体详见
+# 具体话题定位：
 
 ## 123云盘社区网页端聊天室：https://github.com/WYAYZM/123-cloud-disk/discussions/3
 
@@ -16,4 +16,4 @@
 
 ## 123云盘游戏资源分享：https://github.com/WYAYZM/123-cloud-disk/discussions/11
 
-
+## 123云盘学习资料分享：https://github.com/WYAYZM/123-cloud-disk/discussions/10
